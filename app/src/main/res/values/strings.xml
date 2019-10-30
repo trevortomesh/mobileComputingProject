@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lecture</string>
+    <string name="submit">submit</string>
+    <string name="pokepicker">PokePicker</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="i_choose_you">I Choose You!</string>
+    <string name="add_pokemon">Add Pokemon!</string>
+    <string name="pikachu">Pikachu</string>
+</resources>
